@@ -1,3 +1,5 @@
 name: ROOT
 title: Test 4 Documentation
 version: '4.0'
+nav:
+  - ROOT::index.adoc
