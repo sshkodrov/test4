@@ -1,6 +1,4 @@
 name: ROOT
 title: Test 4 Documentation
-start_page: 'pages/index.adoc'
+start_page: ROOT:index.adoc
 version: ~
-content:
-  start_page: "index.adoc" 
