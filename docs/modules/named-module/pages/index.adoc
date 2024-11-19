@@ -1,21 +1,9 @@
-[[ExampleClause]]
-== Example Clause
+= bate ascii doc nali
 
-[NOTE]
-.Instructions
-===============================================
-This section explains some concepts frequently required by Asciidoc novices. Please use this file as a template for your own clauses.
-===============================================
+== are 
 
-[IMPORTANT]
-====
-For citations that also have an associated URL, the URL should be inserted inline as in https://www.ogc.org/[this example]. An endnote citation should still also be included (just in case the link stops working in the future).
+== dobree
 
-See <<UseOfCitations, Use of Citations>> for full citation instructions.
-====
+=== nqma pari deistwaite 
 
-=== Headlines
-All headlines are marked by "=" signs. The top level in each each file starts with level 2 ("=="). Important: For whatever strange reason, headings in annexes are marked differently.
-
-=
-
+=== sexy magapas shaking that ass 
