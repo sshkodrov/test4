@@ -1,5 +1,5 @@
 name: ROOT
 title: Test 4 Documentation
-version: 'Four'
+# version: 'Four'
 nav:
   - nav.adoc
