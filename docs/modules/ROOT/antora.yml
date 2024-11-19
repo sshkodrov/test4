@@ -1,5 +1,4 @@
 name: test4
 title: Test 4 Documentation
 version: ~
-content:
- - start_page: 'index.adoc'
+start_page: 'index.adoc'
