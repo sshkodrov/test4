@@ -1,0 +1,6 @@
+name: ROOT
+title: Test 4 Documentation
+start_page: ROOT::index.adoc
+# version: 'One'
+# nav:
+#   - nav.adoc
