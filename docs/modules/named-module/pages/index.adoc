@@ -1,0 +1,27 @@
+[[ExampleClause]]
+== Example Clause
+
+[NOTE]
+.Instructions
+===============================================
+This section explains some concepts frequently required by Asciidoc novices. Please use this file as a template for your own clauses.
+===============================================
+
+[IMPORTANT]
+====
+For citations that also have an associated URL, the URL should be inserted inline as in https://www.ogc.org/[this example]. An endnote citation should still also be included (just in case the link stops working in the future).
+
+See <<UseOfCitations, Use of Citations>> for full citation instructions.
+====
+
+=== Headlines
+All headlines are marked by "=" signs. The top level in each each file starts with level 2 ("=="). Important: For whatever strange reason, headings in annexes are marked differently.
+
+=== Figures
+If you want to reference a figure by using a figure number, it is important to use the following syntax. The figure identifier for <<img_mindMap>> is the first statement of the header. Please adapt the width as appropriate, but generally a width of 800 is good for landscape-shaped figures and 400 is good for portrait-shaped ones.
+
+[#img_mindMap,reftext='{figure-caption} {counter:figure-num}']
+.This is an example figure
+image::images/placeholder.png[width=600,align="center"]
+
+It is important that you use the same syntax for all images, otherwise the automatic numbering is corrupted!
