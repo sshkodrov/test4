@@ -1,4 +1,5 @@
 name: ROOT
 title: Test 4 Documentation
+version: 'Four'
 nav:
   - modules/ROOT/pages/nav.adoc
