@@ -1,0 +1,4 @@
+name: test4
+title: ' Test 4 Documentation '
+version: ~
+start_page: named-module:index.adoc
